@@ -1,3 +1,4 @@
+# 네이버 오픈api 크롤링
 import os, sys
 import urllib.request
 import datetime, time
